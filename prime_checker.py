@@ -2,6 +2,7 @@ def es_primo(numero):
     """
     Verifica si un número es primo.
     Este es un commit de prueba
+    Este es otro commit de prueba 
 
     Args:
         numero (int): El número a verificar.
